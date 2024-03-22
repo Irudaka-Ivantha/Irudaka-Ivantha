@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLsYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/S1600/200_600PX.GIF)](https://rishavchanda.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1589FF&width=435&lines=Welcome+to+my+profile+on+Github!!!;follow+my+Github+profile....)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Irudaka Ivantha Ranasinghe</h1>
 <h3 align="center">Hello, I am a Computer Science undergraduate in Sri Lanka</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
