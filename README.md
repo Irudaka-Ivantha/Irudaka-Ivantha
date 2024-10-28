@@ -1,21 +1,34 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1589FF&width=435&lines=Welcome+to+my+profile+on+Github!!!;follow+my+Github+profile....)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Irudaka Ivantha Ranasinghe</h1>
 <h3 align="center">Hello, I am a Computer Science undergraduate in Sri Lanka</h3>
-<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irudaka-ivantha&label=Profile%20views&color=0e75b6&style=flat" alt="irudaka-ivantha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
+</p>
 
 - 🌱 I’m currently learning **Machine learning, Python, MongoDb, Nodejs and R**
 
 - 📫 How to reach me **irudakaivantha@gmail.com**
 
-- ⚡ Fun fact **coder, tech enthusiast and love to watch sc-fi series**
+- ⚡ Fun fact **coder, tech enthusiast and love to watch sci-fi series**
+
+### 🌟 GitHub Achievements
+<p align="left">
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue" alt="Arctic Code Vault Contributor" />
+  <img src="https://img.shields.io/badge/Star%20Struck-500%2B%20stars-yellow" alt="Star Struck" />
+  <img src="https://img.shields.io/badge/Galaxy%20Brain-Answered%20questions-purple" alt="Galaxy Brain" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-100%25-orange" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/YOLO-Merge%20without%20review-red" alt="YOLO" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/irudaka-ivantha-8098ba230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudaka-ivantha-8098ba230" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/irudaka-ivantha-8098ba230/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irudaka-ivantha-8098ba230" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
